@@ -1,5 +1,4 @@
 # ECA: Extrapolative Correlation Attention  
-**ICLR 2026 Poster**  
 
 This is the official repository for the ICLR 2026 poster paper:
 
